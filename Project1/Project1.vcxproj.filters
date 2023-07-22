@@ -33,7 +33,7 @@
     <ClCompile Include="23-6-17.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="23-7-15.c">
+    <ClCompile Include="23-7-22.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
